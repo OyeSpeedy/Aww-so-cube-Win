@@ -10,8 +10,6 @@ Dodge obstacles, reach the finish — survive all 10 levels.
 - Game over and restart logic
 - Simple UI and transitions
 
-## 🎮 Play It
-🔗 [Itch.io link here] *(optional but powerful)*
 
 ## 🧠 Dev Notes
 This was one of my early Unity experiments. Revisiting it now as part of my 100 Days of Game Dev journey.
