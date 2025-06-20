@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7ec13d0a16d7cfb469b7a77535c4c562
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - QDBetterComicSansBoldAlternates
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32ef0c8813a96544589d590ae815511c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
