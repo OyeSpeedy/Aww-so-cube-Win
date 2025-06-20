@@ -1,16 +1,24 @@
-# Aww-so-cube-Windows
+# 🧊 Cube Runner – Unity
 
-🎮 Throwback Build #1 – Cube Runner
+Simple 3D runner game built in Unity.  
+Dodge obstacles, reach the finish — survive all 10 levels.
 
-Revisited an old Unity project: a 10-level 3D cube runner I built while learning game development.
+## 🔹 Features
+- Player movement with physics
+- Obstacles and collisions
+- Level progression (10 scenes)
+- Game over and restart logic
+- Simple UI and transitions
 
-✅ Player movement & collisions
-✅ Level progression system
-✅ Game over + UI
+## 🎮 Play It
+🔗 [Itch.io link here] *(optional but powerful)*
 
-This was one of my early wins and taught me the importance of small complete projects.
+## 🧠 Dev Notes
+This was one of my early Unity experiments. Revisiting it now as part of my 100 Days of Game Dev journey.
 
+---
 
-Part of my journey through #100DaysOfGameDev 🚀
-
-#GameDev #Unity3D #ThrowbackBuild #IndieDev #OpenSource
+Built with:
+- Unity 3D
+- C#
+- Pure grit 😤
